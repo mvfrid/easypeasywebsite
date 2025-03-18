@@ -9,6 +9,11 @@ div {
   
   .otherbox {
     background-color:pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
   }
   
   h1 {
@@ -23,6 +28,7 @@ div {
   
   h3 {
     font-size: 28px;
+    
   }
   
   a:link, a:visited {
@@ -41,6 +47,10 @@ div {
   body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    text-align: center;
     padding: 50px;
+}
+
+img {
+    max-width:50%;
+    margin-top:20px;
 }
