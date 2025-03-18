@@ -1,3 +1,3 @@
 # easypeasywebsite
 
-link:
+link: https://easypeasywebsite.netlify.app/
