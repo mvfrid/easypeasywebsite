@@ -1,0 +1,39 @@
+div {
+    max-width:600px;
+    padding:10px;
+  }
+  
+  .box {
+    background-color:lightgrey;
+  }
+  
+  .otherbox {
+    background-color:pink;
+  }
+  
+  h1 {
+    font-size:55px;
+      margin:0;
+  }
+  
+  h2 {
+    margin-top:10px;
+      font-size: 32px;
+  }
+  
+  h3 {
+    font-size: 28px;
+  }
+  
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }  
